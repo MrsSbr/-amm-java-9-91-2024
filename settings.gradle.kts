@@ -113,6 +113,8 @@ student("gadzhiev.maksym", G9) {
 
 student("barkov.pavel", G9) {
     lab(0)
+    lab(1)
+    lab(2)
 }
 
 student("mokshin.nikita", G9) {
@@ -129,9 +131,6 @@ student("kanatnikov.maxim", G9) {
     lab(1)
 }
 
-student("barkov.pavel", G9) {
-    lab(1)
-}
 
 student("garshin.maxim", G9) {
     lab(0)
@@ -175,13 +174,6 @@ student("globuchik.dmitry", G9) {
     lab(0)
 }
 
-student("kavunov.victor", G9) {
-    lab(0)
-}
-
-student("tottskiy.stepan", G9) {
-    lab(0)
-}
 
 // DSL для подпроектов [Не трогать]
 includeProject("template-lab0", file("template/lab0"))
