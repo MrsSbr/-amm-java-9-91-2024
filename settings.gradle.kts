@@ -181,6 +181,7 @@ student("kavunov.victor", G9) {
 
 student("tottskiy.stepan", G9) {
     lab(0)
+    lab(1)
 }
 
 // DSL для подпроектов [Не трогать]
